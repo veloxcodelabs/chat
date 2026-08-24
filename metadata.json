@@ -1,0 +1,6 @@
+{
+  "name": "Private Media Messenger",
+  "description": "Fast real-time private photo and video messaging with live camera capture, video recording, media editor, disappearing messages, and shared media vault.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
